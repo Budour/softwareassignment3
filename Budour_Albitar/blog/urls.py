@@ -1,5 +1,4 @@
 from django.conf.urls import url
-
 from .views import show_blog, get_blog, show_all_blog, show_all_blog_from_user
 
 urlpatterns = [
